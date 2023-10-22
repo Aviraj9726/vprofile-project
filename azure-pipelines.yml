@@ -6,8 +6,7 @@
 trigger:
 - vp-rem
 
-pool:
-  myvm: ubuntu
+pool: myvm
 
 steps:
 - task: Maven@3
